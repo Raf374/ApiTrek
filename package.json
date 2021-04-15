@@ -1,0 +1,23 @@
+{
+  "name": "ApiTrek",
+  "version": "1.0.0",
+  "description": "Atividade RestApi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Raf374/ApiTrek.git"
+  },
+  "keywords": [],
+  "author": "tioRafa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Raf374/ApiTrek/issues"
+  },
+  "homepage": "https://github.com/Raf374/ApiTrek#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
