@@ -1,0 +1,67 @@
+{
+  "Personagens": [
+    {
+      "id": 1,
+      "nome": "William Shatner",
+      "ator": "James T. Kirk",
+      "posto": "Oficial Comandante",
+      "patente": "Capitão"
+    },
+    {
+      "id": 2,
+      "nome": "Leonard Nimoy",
+      "ator": "Spock",
+      "posto": "Primeiro Oficial / Oficial de Ciências",
+      "patente": "Tenente-Comandante Comandante"
+    },
+    {
+      "id": 3,
+      "nome": "DeForest Kelley",
+      "ator": "Leonard McCoy",
+      "posto": "Oficial Médico / Chefe",
+      "patente": "Tenente-Comandante"
+    },
+    {
+      "id": 4,
+      "nome": "James Doohan",
+      "ator": "Montgomery Scott",
+      "posto": "Segundo Oficial Engenheiro / Chefe",
+      "patente": "Tenente-Comandante"
+    },
+    {
+      "id": 5,
+      "nome": "Nichelle Nichols",
+      "ator": "Nyota Uhura",
+      "posto": "Oficial de Comunicações",
+      "patente": "Tenente"
+    },
+    {
+      "id": 6,
+      "nome": "George Takei",
+      "ator": "Hikaru Sulu",
+      "posto": "Piloto / Armas",
+      "patente": "Tenente"
+    },
+    {
+      "id": 7,
+      "nome": "Walter Koenig",
+      "ator": "Pavel Chekov",
+      "posto": "Navegador / Oficial de Segurança / Oficial Tático",
+      "patente": "Alferes"
+    },
+    {
+      "nome": "Majel Barrett ",
+      "ator": "Christine Chapel",
+      "posto": "Enfermeira",
+      "patente": "Tenente",
+      "id": 8
+    },
+    {
+      "id": 9,
+      "nome": "Grace Lee Whitney",
+      "ator": "Janice Rand",
+      "posto": "Ordenança do Capitão",
+      "patente": "Ordenança"
+    }
+  ]
+}
